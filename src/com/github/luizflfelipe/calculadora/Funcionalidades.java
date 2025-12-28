@@ -11,7 +11,7 @@ class Funcionalidades {
     }
 
     static void somar(int numero1, int numero2) {
-        double soma = numero1 + numero2;
+        int soma = numero1 + numero2;
         System.out.println(numero1 + "+" + numero2 + " = " + soma);
     }
 
